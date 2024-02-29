@@ -1,6 +1,7 @@
 //M
 const app = document.getElementById('app');
 const purseStuff = ['scrounchy', 'pen', 'cellphone', 'wallet', 'lipstick', 'eyeliner'];
+
 //V
 updateView()
 function updateView() {
